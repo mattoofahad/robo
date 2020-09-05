@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.5e5ef9fc.chunk.css",
+    "main.js": "/my-app/static/js/main.d3c77627.chunk.js",
+    "main.js.map": "/my-app/static/js/main.d3c77627.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.76eb41e5.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.76eb41e5.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/my-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c2fcf533.chunk.js": "/my-app/static/js/2.c2fcf533.chunk.js",
+    "static/js/2.c2fcf533.chunk.js.map": "/my-app/static/js/2.c2fcf533.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.b23d31dc58edc5009329920361981d12.js": "/my-app/precache-manifest.b23d31dc58edc5009329920361981d12.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/my-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5e5ef9fc.chunk.css.map": "/my-app/static/css/main.5e5ef9fc.chunk.css.map",
+    "static/js/2.c2fcf533.chunk.js.LICENSE.txt": "/my-app/static/js/2.c2fcf533.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-app/static/media/Hawkeyes Free.76c1ccc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76eb41e5.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c2fcf533.chunk.js",
+    "static/css/main.5e5ef9fc.chunk.css",
+    "static/js/main.d3c77627.chunk.js"
+  ]
+}
