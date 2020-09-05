@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5e5ef9fc.chunk.css",
-    "main.js": "/my-app/static/js/main.9df5ce5b.chunk.js",
-    "main.js.map": "/my-app/static/js/main.9df5ce5b.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.76eb41e5.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.76eb41e5.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/my-app/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.c2fcf533.chunk.js": "/my-app/static/js/2.c2fcf533.chunk.js",
-    "static/js/2.c2fcf533.chunk.js.map": "/my-app/static/js/2.c2fcf533.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.d89c42841a5ba9d251ac4ce91da8bed5.js": "/my-app/precache-manifest.d89c42841a5ba9d251ac4ce91da8bed5.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/my-app/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.5e5ef9fc.chunk.css.map": "/my-app/static/css/main.5e5ef9fc.chunk.css.map",
-    "static/js/2.c2fcf533.chunk.js.LICENSE.txt": "/my-app/static/js/2.c2fcf533.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/my-app/static/media/Hawkeyes Free.76c1ccc6.woff"
+    "main.css": "/robo/static/css/main.37d749e9.chunk.css",
+    "main.js": "/robo/static/js/main.ad385817.chunk.js",
+    "main.js.map": "/robo/static/js/main.ad385817.chunk.js.map",
+    "runtime-main.js": "/robo/static/js/runtime-main.2b9bdbda.js",
+    "runtime-main.js.map": "/robo/static/js/runtime-main.2b9bdbda.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robo/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c2fcf533.chunk.js": "/robo/static/js/2.c2fcf533.chunk.js",
+    "static/js/2.c2fcf533.chunk.js.map": "/robo/static/js/2.c2fcf533.chunk.js.map",
+    "index.html": "/robo/index.html",
+    "precache-manifest.6bbcfb66bbcdcfe7752a44451aec9f92.js": "/robo/precache-manifest.6bbcfb66bbcdcfe7752a44451aec9f92.js",
+    "service-worker.js": "/robo/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robo/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.37d749e9.chunk.css.map": "/robo/static/css/main.37d749e9.chunk.css.map",
+    "static/js/2.c2fcf533.chunk.js.LICENSE.txt": "/robo/static/js/2.c2fcf533.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo/static/media/Hawkeyes Free.76c1ccc6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.76eb41e5.js",
+    "static/js/runtime-main.2b9bdbda.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.c2fcf533.chunk.js",
-    "static/css/main.5e5ef9fc.chunk.css",
-    "static/js/main.9df5ce5b.chunk.js"
+    "static/css/main.37d749e9.chunk.css",
+    "static/js/main.ad385817.chunk.js"
   ]
 }
